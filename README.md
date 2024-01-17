@@ -12,6 +12,17 @@ change only the cell PARAMETRES, and run all the cells, except for the last :
 colab file for downloading datasets of your department(s) or your favorite station:  
 change only the cell PARAMETRES, and run all the cells, except for the last :  
 - option 1 : if you want all the stations of all the departments you have chosen
-- option 2 : if you want only the station you have chosen
+- option 2 : if you want only the station you have chosen  
+
 AND some graph analysis (Temperatures and Rainfall)
 ![temperature graph example](images/Climato_Charleville_Temperatures.jpg)
+
+## Station_Meteo_Climato_Analyse_Predictions :
+colab file for downloading datasets of your department(s) or your favorite station:  
+change only the cell PARAMETRES, and run all the cells, except for the last :  
+- option 1 : if you want all the stations of all the departments you have chosen
+- option 2 : if you want only the station you have chosen  
+
+AND some graph analysis (Temperatures and Rainfall)  
+AND some predictions with LSTM model
+![temperature prediction example](images/Climato_Charleville_Predictions.jpg)
